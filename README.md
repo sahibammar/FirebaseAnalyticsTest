@@ -1,10 +1,10 @@
 # FirebaseAnalyticsTest
-The purpose of this project is to test Firebase analytics plugin for Ionic native. Here we are using Capacitor instead of Cordova. The project is tested for Android on a physical Android device.
+The purpose of this project is to test Firebase analytics plugin for Ionic native. Here we are using Capacitor instead of Cordova. The project is tested for Android on an emulator and an Android device.
 
 ### Requirements
 1. You should have access to a firebase project
-2. You should already added an android app to the project and downloaded google-services-json file
-3. The package ID you used in the Firebase android app should match with what you will enter when initiating Capacitor, We use here com.firebaseanalytics.test
+2. You should have already added an android app to the firebase project and downloaded google-services-json file
+3. The package ID you used in the firebase android app should match with what you will enter when initiating Capacitor, We use here com.firebaseanalytics.test
 
 ### Building node_modules:
 ```
