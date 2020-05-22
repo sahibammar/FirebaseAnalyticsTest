@@ -1,7 +1,9 @@
 # FirebaseAnalyticsTest
 Firebase analytics plugin test for Ionic native
 
+
 npx cap init
+
 ? App name FirebaseAnalytics Test
 ? App Package ID (in Java package format, no dashes) com.firebaseanalytics.test
 
@@ -15,11 +17,13 @@ npm install @ionic-native/firebase-analytics
 ionic cap sync
 
 add to app.module.ts
+
 import { FirebaseAnalytics } from '@ionic-native/firebase-analytics/ngx';
 providers: [
 	FirebaseAnalytics,
 
 add to home.page.ts
+
 import { FirebaseAnalytics } from '@ionic-native/firebase-analytics/ngx';
   constructor(private firebaseAnalytics: FirebaseAnalytics) {}
 
