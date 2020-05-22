@@ -1,0 +1,14 @@
+{
+  "appId": "com.firebaseanalytics.test",
+  "appName": "FirebaseAnlytics test",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "linuxAndroidStudioPath": "/home/awitwit/bin/android-studio/bin/studio.sh",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
