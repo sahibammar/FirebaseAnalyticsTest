@@ -1,4 +1,4 @@
-# FirebaseAnalyticsTest
+# FirebaseAnalyticsTestForIonicNative
 The purpose of this project is to test Firebase analytics plugin for Ionic native. Here we are using Capacitor instead of Cordova. The project is tested for Android on an emulator and an Android device.
 
 ### Requirements
